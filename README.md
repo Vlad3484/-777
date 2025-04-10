@@ -30,13 +30,13 @@
     }
 
     h1, p {
-      font-size: 3vw; /* Однаковий розмір для заголовка і тексту */
-      margin-bottom: 3px;
+      font-size: 0.1vw; /* Однаковий розмір для заголовка і тексту */
+      margin-bottom: 0.1px;
       margin-top: 0;
     }
 
     .poem {
-      font-size: 3vw; /* Трохи менший розмір для вірша */
+      font-size: 0.4vw; /* Трохи менший розмір для вірша */
       font-style: italic;
       color: #fff;
       margin-top: 20px;
