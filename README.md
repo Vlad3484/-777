@@ -36,7 +36,7 @@
     }
 
     .poem {
-      font-size: 0.4vw; /* Трохи менший розмір для вірша */
+      font-size: 0.75vw; /* Трохи менший розмір для вірша */
       font-style: italic;
       color: #fff;
       margin-top: 20px;
@@ -47,13 +47,13 @@
       flex-direction: column;
       align-items: center;
       gap: 6px;
-      margin-bottom: 10px;
+      margin-bottom: 15px;
       width: 100%;
     }
 
     .photos img {
-      width: 34%;
-      max-width: 56px;
+      width: 40%;
+      max-width: 60px;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.3);
     }
