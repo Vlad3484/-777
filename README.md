@@ -56,30 +56,7 @@
       max-width: 60px;
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    }
-
-    .audio {
-      margin-bottom: 10px;
-      width: 100%;
-      display: flex;
-      justify-content: center;
-    }
-
-    .audio button {
-      padding: 4px 6px;
-      font-size: 0.8rem;
-      background-color: #ff5e5e;
-      color: white;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      width: 80%;
-      max-width: 160px;
-    }
-
-    .audio button:hover {
-      background-color: #ff3b3b;
-    }
+    
 
     .hearts {
       position: fixed;
@@ -90,7 +67,6 @@
       pointer-events: none;
       z-index: 0;
     }
-
     .heart {
       position: absolute;
       width: 4px;
@@ -136,7 +112,7 @@
       }
 
       h1, p {
-        font-size: 4vw;
+        font-size: 2vw;
       }
 
       .poem {
@@ -146,12 +122,6 @@
       .photos img {
         width: 20%;
         max-width: 40px;
-      }
-
-      .audio button {
-        font-size: 1.2rem;
-        padding: 6px;
-      }
     }
   </style>
 </head>
